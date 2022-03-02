@@ -1,1 +1,2 @@
-/tmp/correction/1197375369119913029068793314979055071834_5/205/10010/0x00-shell_basics/0-current_working_directory doesn't contain ^#!/bin/bash
+$ pwd
+/c/Users/THOMPSON GODSWILL/alx-system_engineering-devops/0x00-shell_basics
