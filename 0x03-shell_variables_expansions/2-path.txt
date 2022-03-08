@@ -1,0 +1,2 @@
+#!/bin/bash
+ppData/Local/Programs/Microsoft VS Code Insiders/bin:/c/Users/THOMPSON GODSWILL/
